@@ -25,9 +25,9 @@
 
 # 📈 GitHub Journey
 
-<p align="center">
+[<p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heypritam171&show_icons=true&theme=tokyonight" />
-</p>
+</p>](https://github-readme-stats.vercel.app/api?username=heypritam171&show_icons=true&theme=transparent&hide_border=true)
 
 ---
 
