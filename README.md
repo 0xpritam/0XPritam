@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Exploring+Modern+Web+Development;Building+Creative+Projects;Frontend+%2B+Backend+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=%3CExploring+Modern+Web+Development%2F%3E;%3CBuilding+Creative+Projects%2F%3E;%3CFrontend+%2B+Backend+Learner%2F%3E" />
 
 <br><br>
 
