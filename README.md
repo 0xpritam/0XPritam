@@ -1,30 +1,38 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+I'm+Pritam;Frontend+Developer;React+%2B+Tailwind+Developer;Building+Cool+Animated+Websites" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+I'm+Pritam;Learning+Web+Development;Building+Cool+Stuff;Exploring+React+%26+Animations" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 🌌 About Me
 
-- ⚛️ Learning React & Tailwind
-- 🎨 Love modern UI animations
-- 🔥 Building cool portfolio websites
+- 🎓 Student exploring web development
+- ⚛️ Currently learning React & Tailwind
+- 🎨 Interested in modern UI and animations
+- 🚀 Building projects and improving every day
 
 ---
 
-# 🛠 Skills
+# 🛠 Currently Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,js,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Journey
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heypritam171&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=heypritam171&theme=tokyonight" />
 </p>
+
+---
+
+<div align="center">
+
+### ✨ “Start before you feel ready.”
+
+</div>
