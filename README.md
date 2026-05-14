@@ -17,9 +17,7 @@
 
 # 🛠 Currently Learning
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=heypritam171&show_icons=true&theme=transparent&hide_border=true" />
 
 ---
 
