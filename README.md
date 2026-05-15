@@ -1,10 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/heypritam171/heypritam171/main/banner.png" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Pritam&fontSize=75&fontColor=00F7FF&animation=twinkling&color=0:050816,50:0B1026,100:111827"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=%3CExploring+Modern+Web+Development%2F%3E;%3CBuilding+Creative+Projects%2F%3E;%3CFrontend+%2B+Backend+Learner%2F%3E" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=%3CExploring+Modern+Web+Development%2F%3E;%3CBuilding+Creative+Projects%2F%3E;%3CFrontend+%2B+Backend+Learner%2F%3E" />
+<img width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Q4dGY4eTBiMzJ0cTVqOWV0bWxmdTR0MWFobDhxdm4zc2VmMmd5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif"/>
 
 <br><br>
 
@@ -41,18 +45,6 @@
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=heypritam171&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/heypritam171">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
 
 </div>
 
