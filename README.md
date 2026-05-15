@@ -1,18 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Pritam&fontSize=75&fontColor=00F7FF&animation=twinkling&color=0:050816,50:0B1026,100:111827"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0F172A,50:111827,100:1E293B&text=Pritam&fontSize=65&fontColor=E2E8F0&animation=fadeIn&fontAlignY=45"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=%3CExploring+Modern+Web+Development%2F%3E;%3CBuilding+Creative+Projects%2F%3E;%3CFrontend+%2B+Backend+Learner%2F%3E" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1000&color=94A3B8&center=true&vCenter=true&width=850&lines=Exploring+Modern+Web+Development;Building+Creative+Projects;Frontend+%2B+Backend+Learner" />
 
 <br><br>
 
-<img width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Q4dGY4eTBiMzJ0cTVqOWV0bWxmdTR0MWFobDhxdm4zc2VmMmd5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif"/>
-
-<br><br>
-
-<img width="420" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img width="380" src="https://user-images.githubusercontent.com/74038190/238200437-de1e7c5d-ea85-4f7d-bc9f-3f7c0c6b81b4.gif"/>
 
 </div>
 
@@ -20,17 +16,17 @@
 
 <div align="center">
 
-### ⚡ Learning and building modern web experiences
+### Building clean and modern web experiences
 
-### 🌌 Interested in frontend, backend & creative UI
+### Learning frontend, backend & creative development
 
-### 🚀 Improving skills one project at a time
+### Improving through projects every day
 
 </div>
 
 ---
 
-# ⚒ Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -40,7 +36,7 @@
 
 ---
 
-# 📊 GitHub Journey
+# GitHub Activity
 
 <div align="center">
 
@@ -52,14 +48,6 @@
 
 <div align="center">
 
-### ✦ Learn • Build • Create • Repeat
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1026,100:111827&height=120&section=footer"/>
+✦ Learn • Build • Improve ✦
 
 </div>
