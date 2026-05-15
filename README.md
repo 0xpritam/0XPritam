@@ -36,11 +36,21 @@
 
 ---
 
-# GitHub Activity
+# 🌌 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=heypritam171&theme=transparent&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=heypritam171&custom_title=Pritam's%20Contribution%20Universe&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" />
+
+<br><br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=heypritam171&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=heypritam171&theme=transparent&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+
+<br><br>
+
+<img width="85%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
