@@ -50,7 +50,7 @@
 
 <br><br>
 
-<img width="85%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heypritam171&theme=github_dark" />
 
 </div>
 
