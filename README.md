@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=heypritam171&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=Pritam's%20Contribution%20Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=0XPritam&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=Pritam's%20Contribution%20Graph"/>
 
 <br><br>
 
