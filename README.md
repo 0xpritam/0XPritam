@@ -44,18 +44,19 @@
 
 <br><br>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heypritam171&theme=github_dark" />
+<img width="85%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
----
+
 
 <div align="center">
 
+
 ✦ Learn • Build • Improve ✦
+
 
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1026,100:111827&height=120&section=footer"/>
 
-</div>
 </div>
