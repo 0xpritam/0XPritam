@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img width="700" src="./animation.gif" alt="Particle Globe Animation"/>
+<img width="420" src="./animation.gif" alt="Particle Globe Animation"/>
 
 </div>
 
