@@ -11,6 +11,10 @@
 </div>
 
 ---
+<picture>
+  <source srcset="" media="(max-width: 900px)" width="0" height="0">
+  <img align="right" width="300" height="300" src="animation.gif" alt="">
+</picture>
 
 <div align="center">
 
@@ -19,8 +23,6 @@
 ### Learning frontend, backend & creative development
 
 ### Improving through projects every day
-
-<img width="300" src="./animation.gif" alt="Particle Globe Animation"/>
 
 </div>
 
