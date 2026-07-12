@@ -8,8 +8,6 @@
 
 <br><br>
 
-<img width="420" src="./animation.gif" alt="Particle Globe Animation"/>
-
 </div>
 
 ---
@@ -21,6 +19,8 @@
 ### Learning frontend, backend & creative development
 
 ### Improving through projects every day
+
+<img width="300" src="./animation.gif" alt="Particle Globe Animation"/>
 
 </div>
 
