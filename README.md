@@ -3,7 +3,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0F172A,50:111827,100:1E293B&text=Pritam&fontSize=65&fontColor=E2E8F0&animation=fadeIn&fontAlignY=45"/>
 
 <br><br>
-
+<picture>
+  <source srcset="" media="(max-width: 900px)" width="0" height="0">
+  <img align="right" width="300" height="300" src="animation.gif" alt="">
+</picture>
 <img width="380" src="https://user-images.githubusercontent.com/74038190/238200437-de1e7c5d-ea85-4f7d-bc9f-3f7c0c6b81b4.gif"/>
 
 <br><br>
@@ -11,10 +14,7 @@
 </div>
 
 ---
-<picture>
-  <source srcset="" media="(max-width: 900px)" width="0" height="0">
-  <img align="right" width="300" height="300" src="animation.gif" alt="">
-</picture>
+
 
 <div align="center">
 
