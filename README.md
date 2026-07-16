@@ -2,37 +2,35 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0F172A,50:111827,100:1E293B&text=Pritam&fontSize=65&fontColor=E2E8F0&animation=fadeIn&fontAlignY=45"/>
 
-<br><br>
+<br>
+
 <picture>
-  <source srcset="" media="(max-width: 900px)" width="0" height="0">
-  <img align="right" width="300" height="300" src="animation.gif" alt="">
+  <img align="right" width="300" src="animation.gif" alt="Animation">
 </picture>
+
 <img width="380" src="https://user-images.githubusercontent.com/74038190/238200437-de1e7c5d-ea85-4f7d-bc9f-3f7c0c6b81b4.gif"/>
 
-<br><br>
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Building Clean & Modern Web Experiences
+
+### 💻 Learning Frontend • Backend • Creative Development
+
+### 🌱 Improving Through Projects Every Day
 
 </div>
 
 ---
 
+# 💻 Tech Stack
 
 <div align="center">
 
-### Building clean and modern web experiences
-
-### Learning frontend, backend & creative development
-
-### Improving through projects every day
-
-</div>
-
----
-
-# Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,git,github,vscode"/>
 
 </div>
 
@@ -46,7 +44,7 @@
 
 <br><br>
 
-<img width="85%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img width="85%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -54,9 +52,7 @@
 
 <div align="center">
 
-✦ Learn • Build • Improve ✦
-
-<br>
+### ✦ Learn • Build • Improve ✦
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1026,100:111827&height=120&section=footer"/>
 
